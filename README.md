@@ -60,7 +60,7 @@ No test has been performed.
 
 ### Exploratory Data Analysis and Visualization
 1. Average Count of Bikes Rented based on the Weather in London <br> <img src="previews/BarGraph.png"><br><br>
-2. Correlation Matrix Plot / Heatmap <br> <img src="previews/Heatmap.png"><br><br>
+2. Correlation Matrix Plot / Heatmap <br> <img src="previews/CorrelationHeatMap.png"><br><br>
 3. Average Count of Bike Rented based on Hour during Weekend & Weekday <br> <img src="previews/PointPlot.png"><br><br>
 4. Average Count of Bike Rented based on Hour during Holiday & Non-holiday <br> <img src="previews/LinePlot.png"><br><br>
 5. Count of Bike Rented in Days with respect to Seasons <br> <img src="previews/BoxPlot&StripPlot.png"><br><br>
